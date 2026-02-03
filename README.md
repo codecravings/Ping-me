@@ -40,14 +40,7 @@ A reminder system that **doesn’t disappear**, **doesn’t get ignored**, and *
 | 🎨 **Glassmorphism UI**     | Modern blur-based aesthetic                    |
 | 🌙 **Dark Mode**            | Comfortable for night usage                    |
 
----
 
-## 📱 Screenshots
-
-> *Coming soon*
-> (Add screenshots or screen recordings here to showcase overlays & UI)
-
----
 
 ## 🚀 Getting Started
 
