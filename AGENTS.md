@@ -75,29 +75,7 @@ lib/
 ## Build and Development Commands
 
 ```bash
-# Install dependencies
-flutter pub get
 
-# Run the app
-flutter run                      # Debug mode
-flutter run --release            # Release mode
-
-# Build for Android
-flutter build apk               # Android APK (debug)
-flutter build apk --release     # Android APK (release)
-flutter build appbundle         # Android App Bundle for Play Store
-
-# Code quality
-flutter analyze                  # Run Dart analyzer
-flutter format lib/              # Format Dart code
-
-# Testing
-flutter test                     # Run all tests
-flutter test test/widget_test.dart  # Run specific test
-
-# Clean build artifacts
-flutter clean
-```
 
 ---
 
